@@ -1,2 +1,2 @@
 # ctf
-# Bunch of tools and scripts for pwning ctfs.
+Bunch of tools and scripts for pwning ctfs.
