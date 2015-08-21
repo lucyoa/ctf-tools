@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # 
-# bruteforces singe xor key
+# breaks single xor key
 
 def score(text):
 	charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789,.'\n"
